@@ -1,0 +1,2 @@
+INSERT INTO DEPARTAMENT  VALUES (1, 'Area comercial');
+INSERT INTO PERSON  VALUES (1, '1234567890', 'Juan Pablo Rueda Gomez', 1);
